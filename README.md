@@ -1,4 +1,5 @@
-![project](https://github.com/user-attachments/assets/f4a56772-3e8b-4ae8-a53c-e1df9f0a9456)
+
+![project](https://github.com/user-attachments/assets/220cbeec-e078-44fb-9164-808d7fa68c86)
 
 # Workout Exercise Website
 
@@ -8,10 +9,6 @@ Welcome to our workout exercise website! This project aims to provide a comprehe
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
