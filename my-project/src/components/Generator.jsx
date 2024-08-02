@@ -20,13 +20,13 @@ function Header(props) {
 function Generator(props) {
 
   const { muscles, setMuscles, poison, setPoison, goal, setGoal, updateWorkout } = props
-  const [showModal, setshowModal ] = useState(false)
+  const [showModal, setShowModal ] = useState(false)
 
   
 
 
   function toggleModel(){
-    setshowModal(!showModal)
+    setShowModal(!showModal)
   }
 
   function updateMuscles(muscleGroup) {

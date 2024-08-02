@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import { Hero, Workout, Generotor} from './components/Index.jsx'
+import { generateWorkout } from './utils/functions.js'
 
 function App() {
   
